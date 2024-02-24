@@ -1,0 +1,35 @@
+body{
+    background-color: beige;
+}
+h1{
+   background-color: rgb(80, 35, 20);
+    height: 50px;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bolder;
+    font-size: 40px;
+
+    
+}
+h2{
+    color: rgb(131, 49, 22);
+    font-size: xx-large;
+    text-decoration: black underline;
+    font-weight: bolder;
+}
+p{
+    color: rgb(131, 49, 22);
+    font-size: larger;
+    font-weight: normal;
+}
+ul{
+    color: rgb(131, 49, 22);
+    font-size: larger;
+    font-weight: normal;
+}
+a{
+    color: black;
+    font-weight: normal;
+    text-decoration: none;    
+}
